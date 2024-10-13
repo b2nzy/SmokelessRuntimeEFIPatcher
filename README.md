@@ -1,3 +1,5 @@
+# I DIDN'T CREATE THIS!
+
 # SmokelessRuntimeEFIPatcher
 # These Are tool From "The Vault", that I decided to upload, so expect not fully polished product, or very slow Fixes if any
 
@@ -15,7 +17,7 @@ Also the code quality and the parsing engine are not that great, but were the be
 
 
 ## Already baked config
-https://github.com/SmokelessCPUv2/SREP-Community-Patches
+https://github.com/b2nzy/SREP-Community-Patches
 
 # What is this
 This is a simple tool to patch and Inject/Patch EFI modules at runtime, I developed this as I wasn't confortable with SPI flashing, as is not boring and require opening the laptop for every small change, as with AMD you can't flash from the OS a new BIOS, if is not signed...
@@ -33,7 +35,7 @@ If you want to donate/support please consider supportorting on [Patreon](https:/
 For one one donation, you can subribe for a month to Patreon then after the biilling, unsubsribe; (I might add a paypal in future)
 
 # How to use it
-* Download the Latest zip, from the [Release Page](https://github.com/SmokelessCPUv2/SmokelessRuntimeEFIPatcher/releases/latest)
+* Download the Latest zip, from the [Release Page](https://github.com/b2nzy/SmokelessRuntimeEFIPatcher/releases/latest)
 
 * extract in a USB, such that exist a Folder Called EFI in the USB Root,
 * Create a SREP_Config.cfg and place in the root of the USB
